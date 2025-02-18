@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: TiposdeSensores.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: bibliografia.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Too many commas in name 1 of "Antonio Barrientos, Luis Felipe Peñín, Carlos Balaguer, Rafael Aracil" for entry fundamentos_robotica
+while executing---line 2403 of file IEEEtran.bst
+Warning--edition ordinal word "Segunda edición" may be too high (or improper) for conversion in fundamentos_robotica
+
+Done.
+You've used 21 entries,
+            4087 wiz_defined-function locations,
+            911 strings with 9726 characters,
+and the built_in function-call counts, 8671 in all, are:
+= -- 740
+> -- 91
+< -- 2
++ -- 44
+- -- 22
+* -- 353
+:= -- 1670
+add.period$ -- 42
+call.type$ -- 21
+change.case$ -- 40
+chr.to.int$ -- 6
+cite$ -- 22
+duplicate$ -- 693
+empty$ -- 798
+format.name$ -- 23
+if$ -- 1882
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 161
+newline$ -- 122
+num.names$ -- 21
+pop$ -- 446
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 4
+skip$ -- 681
+stack$ -- 0
+substring$ -- 59
+swap$ -- 392
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 21
+warning$ -- 1
+while$ -- 21
+width$ -- 23
+write$ -- 243
+(There was 1 error message)
